@@ -1,4 +1,4 @@
-1. All codes and analyzing documents are in the "Code and Analysing process.ipynb" files. It can be open and edit by remoting jupyter notebook or in local python environment. I also import it in my github repository, the link is: https://github.com/Annalal37/Analyzing-clinical-and-financial-data-for-patients
+1. All codes and analyzing documents are in the "Code and Analysing process.ipynb" files. It can be open and edit by remoting jupyter notebook or in local python environment.
 
 2. "patient_data.csv" is the file after I joined four tables togther and cleaned, which can be loaded to do future analyzing directly.
 
